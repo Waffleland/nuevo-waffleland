@@ -148,6 +148,48 @@ footer{
     margin-top:50px;
 }
 
+#login h1{
+    font-family: "Verdana", "Arial";
+    font-size: 20px;
+    letter-spacing: 4px;
+    color:#c1740f;
+    text-align: center;
+    width:100%;
+    height: 80px;
+    float: left;
+    margin-bottom: 20px;
+}
+#login input{
+    text-align: center;
+}
+#login{
+    text-align: center;
+}
+
+#recetario{
+    display:none;
+}
+
+#recetario p{
+    font-family: "Verdana", "Arial";
+    font-size: 20px;
+    letter-spacing: 4px;
+    color:#c1740f;
+    text-align: center;
+    width:100%;
+    height: 50px;
+    float: left;
+    margin-top: 50px;
+}
+#recetario a{
+    text-decoration: none;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
 @media(max-width: 768px){
     header #logo,
     header nav,
